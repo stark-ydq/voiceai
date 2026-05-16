@@ -108,6 +108,7 @@ Pick **one streaming STT** and learn it deeply before shopping around. Deepgram,
 
 ## 4. Text-to-speech (TTS)
 
+* [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 **Latency, not raw quality, is what kills voice agents**  prioritize providers offering true streaming with first-byte under 200 ms.
 
 ### Commercial APIs
